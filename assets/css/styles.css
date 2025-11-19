@@ -2,3 +2,7 @@
     background-color: orange;
     background-image: url("/assets/images/background-img.jpg")
 } 
+
+p {
+    font-weight: bold;
+}
